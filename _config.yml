@@ -1,11 +1,11 @@
 # Site settings
 author: Ghameerah McCullers
-title: 
+title: Why I decided to learn software development!
 header-img: img/home-bg.png
 email: mccullers.ghameerah@gmail.com
 copyright_name: Ghameerah McCullers
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My career transition & personal journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ghameerah
 github_username:  ameerrah9
