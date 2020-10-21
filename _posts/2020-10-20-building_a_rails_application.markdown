@@ -1,16 +1,15 @@
 ---
 layout: post
 title:      "Building a Rails Application"
-date:       2020-10-21 00:42:59 +0000
+date:       2020-10-20 20:43:00 -0400
 permalink:  building_a_rails_application
 ---
 
+The Travelgram App was built using the Ruby on Rails framework and no scaffolding was used to build my project. This app was created with the intention to help travelers blog about their experiences.
 
-The Travelgram App was built using the Ruby on Rails framework and no scaffolding was used to build my project. This app was created with an intention to help travelers blog about their experiences.
+Rails comes with scripts called generators that are designed to make your development life easier by creating everything that’s necessary for you. The generator I used was the new application generator. The new generator will provide you with the foundation of a fresh Rails application so that you don’t have to write it yourself.
 
-Rails comes with a of scripts called generators that are designed to make your development life easier by creating everything that's necessary for you. The generator I used was the new application generator. The new generator will provide you with the foundation of a fresh Rails application so that you don't have to write it yourself.
-
-To use this generator, I opened up my terminal, navigated to my project directory and typed the following command:
+To use this generator, I opened up my terminal, navigated to my project directory, and typed the following command:
 ```
 $ rails new Travelgram
 ```
@@ -20,7 +19,7 @@ When building a Rails app I struggled a lot with routing. Most developers strugg
 
 Understanding the routing process made it a lot easier for me to build successfully. Another key struggle was with styling and CSS. This was a personal issue for me not so much as a technical issue. I wanted my application to look a certain way so that my user could get a certain feel when interacting with my application.
 
-Luckily the developer network is very useful in that if you need help you can find a useful resource. Rails has really great documentation (link rails docs) for developers, so it makes the process really fun when you run into an issue.
+Luckily the developer network is very useful in that if you need help you can find a useful resource. Rails has really great [documentation](https://guides.rubyonrails.org/) for developers, so it makes the process really fun when you run into an issue.
 
 Feel free to check out my application, I have linked my [repository](http://github.com/ameerrah9/Travelgram)! Happy coding!
 
