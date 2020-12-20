@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building a JavaScript frontend and Rails API backend Project for Beginners"
-date:       2020-12-20 02:15:19 +0000
+date:       2020-12-19 21:15:20 -0500
 permalink:  building_a_javascript_frontend_and_rails_api_backend_project_for_beginners
 ---
 
