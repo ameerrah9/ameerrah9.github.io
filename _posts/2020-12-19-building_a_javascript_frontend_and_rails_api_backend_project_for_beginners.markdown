@@ -8,6 +8,7 @@ permalink:  building_a_javascript_frontend_and_rails_api_backend_project_for_beg
 
 **JavaScript Portfolio Project
 **
+
 Fresh Find application is a web application using JavaScript to render frontend data and Rails API to manage backend data.
 
 Farmers, use the Fresh Find application to keep track of your inventory when your next Farmer's Market rolls around!
